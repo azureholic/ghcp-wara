@@ -1,0 +1,9 @@
+# Output artifacts (exported Azure resources)
+resources/
+
+# Generated Well-Architected Resiliency Assessment reports
+WARA*.md
+
+# Optional: Uncomment if you later add local tooling caches
+# .VSCodeCounter/
+# .vscode/*.log
